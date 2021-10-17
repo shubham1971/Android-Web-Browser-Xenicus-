@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Xenicus</string>
+
+    <string name="title_Back">Back</string>
+    <string name="title_Forward">Forward</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Home</string>
+
+
+</resources>
